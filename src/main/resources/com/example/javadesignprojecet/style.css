@@ -1,0 +1,30 @@
+.root {
+    -fx-font-family: 'Times New Roman';
+}
+
+.menu-bar{
+    -fx-background-color: #A0522D;
+}
+
+.table-view{
+    -fx-border-color: #A0522D;
+}
+
+.vbox{
+    -fx-background-color: #ADFF2F;
+    -fx-padding: 10;
+    -fx-spacing: 10;
+}
+
+.button{
+    -fx-background-color: #A0522D;
+    -fx-text-fill: black;
+    -fx-padding: 10;
+    -fx-alignment: CENTER;
+}
+
+.image-view{
+    -fx-padding: 10;
+    -fx-background-color: #A0522D;
+
+}
